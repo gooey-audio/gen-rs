@@ -1,5 +1,4 @@
 mod envelope;
-mod filter;
 mod kick;
 mod oscillator;
 
